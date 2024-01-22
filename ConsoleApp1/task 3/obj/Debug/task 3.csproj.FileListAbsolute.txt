@@ -1,0 +1,6 @@
+C:\Users\User\Documents\kis\ConsoleApp1\task 3\bin\Debug\task 3.exe.config
+C:\Users\User\Documents\kis\ConsoleApp1\task 3\bin\Debug\task 3.exe
+C:\Users\User\Documents\kis\ConsoleApp1\task 3\bin\Debug\task 3.pdb
+C:\Users\User\Documents\kis\ConsoleApp1\task 3\obj\Debug\task 3.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\kis\ConsoleApp1\task 3\obj\Debug\task 3.exe
+C:\Users\User\Documents\kis\ConsoleApp1\task 3\obj\Debug\task 3.pdb

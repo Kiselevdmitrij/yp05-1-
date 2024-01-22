@@ -1,0 +1,7 @@
+C:\Users\User\Documents\kis\ConsoleApp1\task 5\bin\Debug\task 5.exe.config
+C:\Users\User\Documents\kis\ConsoleApp1\task 5\bin\Debug\task 5.exe
+C:\Users\User\Documents\kis\ConsoleApp1\task 5\bin\Debug\task 5.pdb
+C:\Users\User\Documents\kis\ConsoleApp1\task 5\obj\Debug\task 5.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\kis\ConsoleApp1\task 5\obj\Debug\task 5.exe
+C:\Users\User\Documents\kis\ConsoleApp1\task 5\obj\Debug\task 5.pdb
+C:\Users\User\Documents\kis\ConsoleApp1\task 5\obj\Debug\task 5.csproj.AssemblyReference.cache

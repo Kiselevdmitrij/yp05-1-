@@ -1,0 +1,6 @@
+C:\Users\User\Documents\kis\ConsoleApp1\task 4\obj\Debug\task 4.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\kis\ConsoleApp1\task 4\bin\Debug\task 4.exe.config
+C:\Users\User\Documents\kis\ConsoleApp1\task 4\bin\Debug\task 4.exe
+C:\Users\User\Documents\kis\ConsoleApp1\task 4\bin\Debug\task 4.pdb
+C:\Users\User\Documents\kis\ConsoleApp1\task 4\obj\Debug\task 4.exe
+C:\Users\User\Documents\kis\ConsoleApp1\task 4\obj\Debug\task 4.pdb
