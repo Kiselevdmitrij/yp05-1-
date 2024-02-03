@@ -1,0 +1,7 @@
+C:\Users\user.B5-302-3\Documents\кис\ConsoleApp2-Услов_опер\task 3\bin\Debug\task 3.exe.config
+C:\Users\user.B5-302-3\Documents\кис\ConsoleApp2-Услов_опер\task 3\bin\Debug\task 3.exe
+C:\Users\user.B5-302-3\Documents\кис\ConsoleApp2-Услов_опер\task 3\bin\Debug\task 3.pdb
+C:\Users\user.B5-302-3\Documents\кис\ConsoleApp2-Услов_опер\task 3\obj\Debug\task 3.csproj.AssemblyReference.cache
+C:\Users\user.B5-302-3\Documents\кис\ConsoleApp2-Услов_опер\task 3\obj\Debug\task 3.csproj.CoreCompileInputs.cache
+C:\Users\user.B5-302-3\Documents\кис\ConsoleApp2-Услов_опер\task 3\obj\Debug\task 3.exe
+C:\Users\user.B5-302-3\Documents\кис\ConsoleApp2-Услов_опер\task 3\obj\Debug\task 3.pdb

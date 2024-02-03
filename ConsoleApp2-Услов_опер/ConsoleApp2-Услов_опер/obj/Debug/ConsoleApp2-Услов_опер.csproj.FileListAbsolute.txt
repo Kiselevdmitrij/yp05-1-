@@ -1,0 +1,6 @@
+C:\Users\user.B5-302-3\Documents\кис\ConsoleApp2-Услов_опер\ConsoleApp2-Услов_опер\bin\Debug\ConsoleApp2-Услов_опер.exe.config
+C:\Users\user.B5-302-3\Documents\кис\ConsoleApp2-Услов_опер\ConsoleApp2-Услов_опер\bin\Debug\ConsoleApp2-Услов_опер.exe
+C:\Users\user.B5-302-3\Documents\кис\ConsoleApp2-Услов_опер\ConsoleApp2-Услов_опер\bin\Debug\ConsoleApp2-Услов_опер.pdb
+C:\Users\user.B5-302-3\Documents\кис\ConsoleApp2-Услов_опер\ConsoleApp2-Услов_опер\obj\Debug\ConsoleApp2-Услов_опер.csproj.CoreCompileInputs.cache
+C:\Users\user.B5-302-3\Documents\кис\ConsoleApp2-Услов_опер\ConsoleApp2-Услов_опер\obj\Debug\ConsoleApp2-Услов_опер.exe
+C:\Users\user.B5-302-3\Documents\кис\ConsoleApp2-Услов_опер\ConsoleApp2-Услов_опер\obj\Debug\ConsoleApp2-Услов_опер.pdb

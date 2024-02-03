@@ -1,0 +1,6 @@
+C:\Users\user.B5-302-3\Documents\кис\ConsoleApp2-Услов_опер\task 5\bin\Debug\task 5.exe.config
+C:\Users\user.B5-302-3\Documents\кис\ConsoleApp2-Услов_опер\task 5\bin\Debug\task 5.exe
+C:\Users\user.B5-302-3\Documents\кис\ConsoleApp2-Услов_опер\task 5\bin\Debug\task 5.pdb
+C:\Users\user.B5-302-3\Documents\кис\ConsoleApp2-Услов_опер\task 5\obj\Debug\task 5.csproj.CoreCompileInputs.cache
+C:\Users\user.B5-302-3\Documents\кис\ConsoleApp2-Услов_опер\task 5\obj\Debug\task 5.exe
+C:\Users\user.B5-302-3\Documents\кис\ConsoleApp2-Услов_опер\task 5\obj\Debug\task 5.pdb
